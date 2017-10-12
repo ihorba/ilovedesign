@@ -143,3 +143,8 @@ textarea {
 	margin: 0 0 30px;
 
 }
+
+.ba-intro p {
+	margin: 0 auto;
+	max-width: 45%;
+}
